@@ -1,6 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.col-md-6 {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 351px;
+}
+
 .first{
     font-family: 'Luckiest Guy', cursive;
     text-align: center;
+    color: purple;
 }
 
 .image{
@@ -10,4 +21,48 @@
 .second{
     font-family: 'Bangers', cursive;
     text-align: center;
+}
+
+.generalbutton{
+        text-align: center;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px -322px;
+}
+    
+}
+.head{
+    
+    font-family: 'Kranky', cursive;
+    color: purple;
+}
+
+.button{
+    
+    font-family: 'Henny Penny', cursive;
+    float: left width 50%;
+    
+    
+}
+
+.button1{
+    
+     font-family: 'Henny Penny', cursive;
+    float: right width 50%;
+}
+
+body{
+background-image: url(https://daks2k3a4ib2z.cloudfront.net/5661de094faab4b202ad12f2/5852de4b99affdc361f41834_bg%20anim%2036.gif);
+background-repeat: no-repeat;
+background-size: cover;
+    margin: 52px;
+    padding: 60px;
+    
+
+}
+
+.everything{
+       margin:0px;
+    padding:0px;
+
+ 
 }
