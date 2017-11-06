@@ -1,4 +1,4 @@
-# Ian's kitchen app
+# Ian's Pig Dice game.
 
 #### Ian Muchai's Pig Dice Game , 04-11-2017
 
